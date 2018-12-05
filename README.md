@@ -1,6 +1,6 @@
 # Trabalho remoto
 ### O que é o trabalho remoto?
-RemoteWork é um projeto que permite ao profissional desenvovler suas atividades de outros lugares que não seja o escritório.
+RemoteWork é um projeto que permite ao profissional desenvolver suas atividades de outros lugares que não seja o escritório.
 
 
 ### Por quais motivos fazemos uso do trabalho remoto?
@@ -59,7 +59,7 @@ Ferramentas para desenho de arquiteturas, fluxos e ideias:
 
 
  ### O que não podemos esquecer
-> Para desfrutar destes projeto, é importante nos lembrarmos que o trabalho remoto é não é um benefício, então, pode ser revogado a qualquer momento em que a pessoa que exerce o papel de gestão entender que não faça mais sentido para alguém.
+> Para desfrutar destes projeto, é importante nos lembrarmos que o trabalho remoto não é um benefício, então, pode ser revogado a qualquer momento em que a pessoa que exerce o papel de gestão entender que não faça mais sentido para alguém.
 
 
 Referencia: 
